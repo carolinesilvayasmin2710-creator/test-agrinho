@@ -1,0 +1,14 @@
+h1{
+    font-size: 300%;
+    color: blue;
+}
+h1{
+    border-style: groove;
+    border-color: azure;
+    border-width: 50px;
+}
+#ima{
+    margin-left: 30%;
+    width: 1%;
+
+}
